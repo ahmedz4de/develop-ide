@@ -16,8 +16,10 @@ It does not support any features except those provided by `zellij` and `micro`.
 Simply call `develop` with file names specified (multiple files supported).
 <pre> $ develop yourfile1.txt yourfile2.txt </pre>
 
-Bu default, `zellij` will be launched in locked mode to not interfere with `micro`'s keybinding. To exit:
-1. Press `Ctrl + G` to exit locked mode
-2. Then press `Ctrl + Q` to close the app
+Bu default, `zellij` will be launched in locked mode to not interfere with `micro`'s keybinding.
+
+To exit `develop`:
+1. Press Ctrl + G to exit locked mode
+2. Then press Ctrl + Q to close the app
 
 <img width="1070" height="1146" alt="Screenshot From 2025-07-10 15-13-14" src="https://github.com/user-attachments/assets/171b698c-46fd-43e2-acbb-97e06605a146" />
