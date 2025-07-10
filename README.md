@@ -20,7 +20,4 @@ Bu default, `zellij` will be launched in locked mode to not interfere with `micr
 1. Press `Ctrl + G` to exit locked mode
 2. Then press `Ctrl + Q` to close the app
 
-
 <img width="1070" height="1146" alt="Screenshot From 2025-07-10 15-13-14" src="https://github.com/user-attachments/assets/171b698c-46fd-43e2-acbb-97e06605a146" />
-
-
