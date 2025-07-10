@@ -1,6 +1,6 @@
 # Description
 
-Develop-IDE is a fake IDE. It uses a custom layout and configuration for the Zellij terminal multiplexer to render two tabs: one opens the Micro text editor, and the other opens a terminal.
+Develop-IDE is a fake IDE. It uses a custom layout and configuration for the Zellij Terminal Multiplexer to render two tabs: one opens the Micro Text Editor, and the other opens a terminal.
 
 It does not support any features except those provided by Zellij and Micro.
 
